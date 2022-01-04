@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+}
+.container-fluid{
+  background-color: azure;
+  color:black;
+}
+.clock{
+    background-image: url(image.jpeg);
+    background-size: cover;
+    height:1000px;
+}
+.container {
+    color: azure;
+}
+.jumbotron {
+    padding:100px;
+    position:center;
+}
+.map{
+    padding-left:10px;
+    margin-bottom:0;
+    margin-top:10px; 
+}
+.world {
+  background-image:url(world.jpeg); 
+  background-size: cover;
+  height: 1050px;
+  padding:10px;
+}
